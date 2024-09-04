@@ -1,7 +1,7 @@
 # ![1145598749427646475](https://github.com/KurtVelasco/ArknightPTS/assets/124945749/ab42262f-26a1-453b-9cdb-b06de373acb8) Professional 0 to 100 back 0
 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /> 
-Java my beloved
+Java# my beloved
 
 </a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /> A.I or Discord bots
 
