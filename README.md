@@ -15,16 +15,11 @@ Sometimes it's Python. Sometimes it's C#. WINDWOS Shall die but I'm scared of Li
 If it compiles, it's production-ready. If it doesn't, it's probably still in production.
 
 ---
-
-### 🧪 What You'll Find Here
-- Experimental projects that may or may not break your machine
-- Game-related scripts and automation tools
-- Unhinged README edits and questionable commit messages
-
 ### 📫 How to Reach Me
 Drop a message in Zenless Zone Zero or in my Uma Club
 
 ---
+
 
 
 
