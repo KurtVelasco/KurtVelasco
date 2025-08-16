@@ -1,4 +1,4 @@
-# ![1145598749427646475](https://github.com/KurtVelasco/ArknightPTS/assets/124945749/ab42262f-26a1-453b-9cdb-b06de373acb8) Agnes Tachyon
+# ![1145598749427646475](https://github.com/KurtVelasco/ArknightPTS/assets/124945749/ab42262f-26a1-453b-9cdb-b06de373acb8) Amiya for Uma Musume
 
 
 # 👋 Welcome to My Chaos
