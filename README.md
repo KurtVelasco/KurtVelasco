@@ -4,13 +4,13 @@
 I code random stuff, most of them annoy or provide maximum time-wasting for users
 
 
-## <img width="267" height="291" alt="image" src="https://github.com/user-attachments/assets/0ba58139-ffd7-4257-ac2c-8c707d38060c" /> Professional Uma Musume Trainer
-I know my Gold Ship from my Narita Taishin. Gacha luck? Questionable. Dedication? Unmatched.
+## <img width="267" height="291" alt="image" src="https://github.com/user-attachments/assets/0ba58139-ffd7-4257-ac2c-8c707d38060c" /> 
 
 ### 📫 How to Reach Me
 Drop a message in Zenless Zone Zero or in my Uma Club, what's a dicord!?
 
 ---
+
 
 
 
