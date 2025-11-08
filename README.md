@@ -1,6 +1,8 @@
 
-<div align="center"> <img width="267" height="291" alt="image" alighn src="https://github.com/user-attachments/assets/0ba58139-ffd7-4257-ac2c-8c707d38060c" /> </div>
+<img width="1898" height="972" alt="image" src="https://github.com/user-attachments/assets/29736c1c-f31d-4cab-9721-ed4202229954" />
+
 <div align="center">How do I make a good Readme?
+
 
 
 
