@@ -1,6 +1,8 @@
 
-<img width="1092" height="663" alt="image" src="https://github.com/user-attachments/assets/415d0079-7a75-41c6-ac26-f18b7462c794" />
+<img width="618" height="378" alt="image" src="https://github.com/user-attachments/assets/bd607976-ec71-48fa-8ab4-372c3e224f66" />
+
 <div align="center">My 13th reason
+
 
 
 
