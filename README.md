@@ -1,7 +1,7 @@
 
-<img width="1898" height="972" alt="image" src="https://github.com/user-attachments/assets/29736c1c-f31d-4cab-9721-ed4202229954" />
+<img width="1092" height="663" alt="image" src="https://github.com/user-attachments/assets/415d0079-7a75-41c6-ac26-f18b7462c794" />
+<div align="center">My 13th reason
 
-<div align="center">How do I make a good Readme?
 
 
 
